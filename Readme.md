@@ -1,4 +1,4 @@
-[![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
+[![deprecated](https://img.shields.io/badge/stability-deprecated-red.svg)]()
 ![version](https://img.shields.io/badge/version-outdated-red.svg)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 
