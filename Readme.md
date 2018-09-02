@@ -1,4 +1,4 @@
-[![deprecated](https://img.shields.io/badge/stability-deprecated-red.svg)]()
+
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 
 
