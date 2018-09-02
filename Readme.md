@@ -1,5 +1,4 @@
 [![deprecated](https://img.shields.io/badge/stability-deprecated-red.svg)]()
-![version](https://img.shields.io/badge/version-outdated-red.svg)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 
 
