@@ -7,8 +7,11 @@ This database contains 380,000+ English language words with their respective par
 ![db_screenshot](https://github.com/talhahasanzia/English-Thesaurus/blob/master/DbCapture.PNG)
 
 There are two files.
-One is `.mdf` database file as `.rar` archive
+
+One is `.mdf` database file as `.rar` archive.
+
 One is csv file contains data as plain text.
+
 You can use either one of them.
 
 
