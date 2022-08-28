@@ -7,8 +7,6 @@ This database contains 200,000+ English language words with their respective par
 ![db_screenshot](https://github.com/talhahasanzia/English-Thesaurus/blob/master/DbCapture.PNG)
 
 Csv file contains data as plain text.
-You can use either one of them.
-
 
 What is [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) file format? 
 
